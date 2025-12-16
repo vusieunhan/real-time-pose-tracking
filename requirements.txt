@@ -1,6 +1,4 @@
 ultralytics
 opencv-python 
-numpy 
-torch 
-torchvision
+numpy
 deep-sort-realtime
