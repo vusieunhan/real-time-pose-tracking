@@ -32,6 +32,3 @@ Video Frame
 - Ultralytics YOLOv8
 - OpenCV
 - DeepSORT
-
-## Demo
-See demo.gif
